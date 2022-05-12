@@ -14,5 +14,4 @@ EDA:
 * Pegawai yang resign kebanyakan dari pegawai dengan posisi baru (beberpa bulan dan 2 tahun) diposisi tersebut.
 * Pegawai resign terbanyak dari departement Research & Development.
 
-Kesimpulan:
 Model dengan nilai recall tertinggi yaitu model random forest dengan undersampling yang mempunyai recall 0.76 dan akurasi 0,72
